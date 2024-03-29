@@ -26,7 +26,7 @@ class Card:
         # 牌的花色集
         return ['♠', '♥', '♣', '♦']
 
-    @staticmethod2
+    @staticmethod
 
     def faces():
         # 牌的点数集
